@@ -1,0 +1,50 @@
+5 router:
+Source Node: 1
+Destination Node: 0
+Visited Nodes in order: [1, 4, 0]
+Total hops: 2
+Total cost: 5
+Link State Runtime: 0.0035 seconds
+Visited Nodes in order: [1, 4, 0]
+Total hops: 2
+Total cost: 5
+Distance Vector Runtime: 0.0006 seconds
+
+15 router:
+Source Node: 14
+Destination Node: 6
+Visited Nodes in order: [14, 7, 6]
+Total hops: 2
+Total cost: 12
+Link State Runtime: 0.0261 seconds
+Visited Nodes in order: [14, 7, 6]
+Total hops: 2
+Total cost: 12
+Distance Vector Runtime: 0.1009 seconds
+
+
+50 router:
+Source Node: 6
+Destination Node: 47
+Visited Nodes in order: [6, 47]
+Total hops: 1
+Total cost: 3
+Link State Runtime: 0.5104 seconds
+Visited Nodes in order: [6, 47]
+Total hops: 1
+Total cost: 3
+Distance Vector Runtime: 4.0738 seconds
+
+100 router:
+Source Node: 11
+Destination Node: 41
+Visited Nodes in order: [11, 41]
+Total hops: 1
+Total cost: 3
+Link State Runtime: 3.9067 seconds
+Visited Nodes in order: [11, 41]
+Total hops: 1
+Total cost: 3
+Distance Vector Runtime: 31.6995 seconds
+
+

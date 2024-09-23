@@ -1,0 +1,70 @@
+Results for zalonda.de (Execution Counts):
+Repetition 1: 42, 42, 42
+
+Results for zalonda.de (Execution Counts):
+Repetition 1: 42, 42, 43
+Repetition 2: 42, 42, 42
+
+Results for hepsiburada.com (Execution Counts):
+Repetition 1: 4, 3, 4
+
+Results for hepsiburada.com (Execution Counts):
+Repetition 1: 4, 4, 4
+Repetition 2: 4, 4, 4
+
+Results for lanacion.com.ar (Execution Counts):
+Repetition 1: 287, 287, 287
+
+Results for lanacion.com.ar (Execution Counts):
+Repetition 1: 287, 288, 287
+Repetition 2: 287, 287, 287
+
+Results for vg.no (Execution Counts):
+Repetition 1: 73, 79, 72
+
+Results for vg.no (Execution Counts):
+Repetition 1: 79, 72, 73
+Repetition 2: 73, 73, 79
+
+Results for property24.com (Execution Counts):
+Repetition 1: 198, 198, 198
+
+Results for property24.com (Execution Counts):
+Repetition 1: 198, 198, 198
+Repetition 2: 199, 198, 198
+
+Results for google.com (Execution Counts):
+Repetition 1: 18, 18, 18
+
+Results for google.com (Execution Counts):
+Repetition 1: 18, 18, 18
+Repetition 2: 18, 18, 18
+
+Results for mail.ru (Execution Counts):
+Repetition 1: 118, 118, 119
+
+Results for mail.ru (Execution Counts):
+Repetition 1: 118, 118, 119
+Repetition 2: 128, 119, 118
+
+Results for tehrantimes.com (Execution Counts):
+Repetition 1: 4, 3, 3
+
+Results for tehrantimes.com (Execution Counts):
+Repetition 1: 5, 4, 4
+Repetition 2: 3, 3, 3
+
+Results for im.qq.com (Execution Counts):
+Repetition 1: 247, 250, 271
+
+Results for im.qq.com (Execution Counts):
+Repetition 1: 263, 261, 271
+Repetition 2: 267, 271
+
+Results for flipkart.com (Execution Counts):
+Repetition 1: 173, 174, 173
+
+Results for flipkart.com (Execution Counts):
+Repetition 1: 173, 173, 173
+Repetition 2: 173, 173, 173
+

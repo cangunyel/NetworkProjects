@@ -1,0 +1,6 @@
+8 NAK recieved
+8 ACK recieved
+16 ACK recieved
+24 ACK recieved
+Fin 1 ACK recieved
+Fin 2 ACK recieved
